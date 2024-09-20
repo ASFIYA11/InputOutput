@@ -28,17 +28,16 @@ Name:  Kendriya School
 Score: 110
 Overs played: 18
 '''
-# Input details for Team 1
+
 team1_name = input("Team 1:\nTeam Name:\n")
 team1_score = input("Score:\n")
 team1_overs = input("Overs played:\n")
 
-# Input details for Team 2
 team2_name = input("Team 2:\nTeam name:\n")
 team2_score = input("Score:\n")
 team2_overs = input("Overs played:\n")
 
-# Display match details
+
 print("\nMatch Details:")
 print("Team 1:")
 print(f"Name: {team1_name}")
